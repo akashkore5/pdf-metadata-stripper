@@ -1,0 +1,25 @@
+{
+  "name": "@akashkore5/pdf-metadata-stripper",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight client-side PDF metadata sanitization and stripping utility for privacy and confidentiality.",
+  "main": "index.js",
+  "keywords": [
+    "pdf",
+    "metadata",
+    "privacy",
+    "pdf-metadata",
+    "pdf-cleaner",
+    "sanitize-pdf",
+    "editpdfkit"
+  ],
+  "author": "Akash Kore <https://github.com/akashkore5>",
+  "homepage": "https://www.editpdfkit.com/tools/remove-metadata",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashkore5/pdf-metadata-stripper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akashkore5/pdf-metadata-stripper/issues"
+  },
+  "license": "MIT"
+}
